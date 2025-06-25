@@ -1,0 +1,31 @@
+#****Begin: Generated Statements***
+#****End: Generated Statements***
+
+#****Begin: Prolog***
+# Source CSV file configuration
+DatasourceNameForServer = 'expenses.csv';
+DatasourceNameForClient = 'expenses.csv';
+DatasourceType = 'CHARACTERDELIMITED';
+DatasourceDelimiter = ',';
+DatasourceHeaderLines = 1;
+
+# Target cube for summarized expenses
+sCube = 'Expense Summary';
+# Assume cube dimensions: Category, Month
+#****End: Prolog***
+
+#****Begin: Metadata***
+# No metadata processing required; elements should already exist
+#****End: Metadata***
+
+#****Begin: Data***
+# CSV columns: Date, Category, Description, Amount
+Month = SubSt(Date, 1, 7);  # Get YYYY-MM
+AmountNum = Numbr(Amount);
+
+CellIncrementN(AmountNum, sCube, Category, Month);
+#****End: Data***
+
+#****Begin: Epilog***
+# No additional epilog actions
+#****End: Epilog***
