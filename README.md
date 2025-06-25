@@ -21,3 +21,22 @@ Run:
 ```bash
 python generate_credit_card_statements.py
 ```
+
+## Expense Analytics
+
+Use `expense_analytics.py` to explore spending patterns in `credit_card_statements.csv`.
+
+You can group totals by month, category, or both:
+
+```bash
+# group by month
+python expense_analytics.py --dimensions month
+
+# group by category
+python expense_analytics.py --dimensions category
+
+# group by both month and category
+python expense_analytics.py --dimensions month category
+```
+
+The script prints a table with the aggregated totals and displays a simple bar chart for a quick visual overview.
