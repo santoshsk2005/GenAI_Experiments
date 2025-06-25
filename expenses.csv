@@ -1,0 +1,901 @@
+Date,Category,Description,Amount
+2023-01-01,Groceries,Groceries,110.76
+2023-01-01,Miscellaneous,Misc Expense,88.83
+2023-01-01,Utilities,Utility Bill,106.24
+2023-01-02,Office Travel,Office Travel,175.34
+2023-01-03,Entertainment,Entertainment,95.41
+2023-01-03,Insurance,Insurance Payment,176.32
+2023-01-03,Miscellaneous,Misc Expense,53.74
+2023-01-03,Rent,Monthly Rent,1500.00
+2023-01-04,Internet,Internet Bill,60.00
+2023-01-04,Utilities,Utility Bill,125.59
+2023-01-05,Office Travel,Office Travel,311.41
+2023-01-06,Entertainment,Entertainment,115.12
+2023-01-06,Internet,Internet Bill,60.00
+2023-01-06,Office Travel,Office Travel,282.19
+2023-01-07,Entertainment,Entertainment,94.30
+2023-01-07,Groceries,Groceries,68.61
+2023-01-07,Miscellaneous,Misc Expense,68.49
+2023-01-08,Groceries,Groceries,86.24
+2023-01-08,Rent,Monthly Rent,1500.00
+2023-01-08,Vacation,Vacation Expense,1431.03
+2023-01-09,Dining,Dining Out,27.28
+2023-01-09,Entertainment,Entertainment,95.01
+2023-01-09,Groceries,Groceries,52.06
+2023-01-10,Insurance,Insurance Payment,131.63
+2023-01-10,Office Travel,Office Travel,329.21
+2023-01-10,Office Travel,Office Travel,390.19
+2023-01-10,Utilities,Utility Bill,182.64
+2023-01-11,Dining,Dining Out,51.05
+2023-01-11,Transportation,Public Transport or Fuel,17.77
+2023-01-12,Dining,Dining Out,51.86
+2023-01-12,Internet,Internet Bill,60.00
+2023-01-13,Internet,Internet Bill,60.00
+2023-01-13,Office Travel,Office Travel,302.37
+2023-01-13,Office Travel,Office Travel,407.43
+2023-01-13,Transportation,Public Transport or Fuel,13.31
+2023-01-13,Transportation,Public Transport or Fuel,59.48
+2023-01-14,Rent,Monthly Rent,1500.00
+2023-01-15,Entertainment,Entertainment,41.40
+2023-01-15,Office Travel,Office Travel,508.76
+2023-01-16,Rent,Monthly Rent,1500.00
+2023-01-17,Utilities,Utility Bill,184.46
+2023-01-17,Vacation,Vacation Expense,234.50
+2023-01-18,Entertainment,Entertainment,42.59
+2023-01-18,Groceries,Groceries,54.46
+2023-01-18,Insurance,Insurance Payment,144.09
+2023-01-18,Rent,Monthly Rent,1500.00
+2023-01-19,Dining,Dining Out,53.75
+2023-01-19,Insurance,Insurance Payment,279.56
+2023-01-19,Transportation,Public Transport or Fuel,50.47
+2023-01-20,Internet,Internet Bill,60.00
+2023-01-20,Office Travel,Office Travel,144.13
+2023-01-20,Transportation,Public Transport or Fuel,50.36
+2023-01-21,Miscellaneous,Misc Expense,60.13
+2023-01-21,Utilities,Utility Bill,83.00
+2023-01-22,Internet,Internet Bill,60.00
+2023-01-22,Miscellaneous,Misc Expense,20.31
+2023-01-23,Dining,Dining Out,54.21
+2023-01-23,Office Travel,Office Travel,406.42
+2023-01-24,Dining,Dining Out,23.99
+2023-01-24,Healthcare,Medical Expense,157.25
+2023-01-24,Utilities,Utility Bill,161.20
+2023-01-25,Office Travel,Office Travel,237.10
+2023-01-26,Internet,Internet Bill,60.00
+2023-01-27,Rent,Monthly Rent,1500.00
+2023-01-28,Internet,Internet Bill,60.00
+2023-01-28,Utilities,Utility Bill,125.62
+2023-01-28,Utilities,Utility Bill,98.34
+2023-01-28,Vacation,Vacation Expense,750.08
+2023-01-29,Entertainment,Entertainment,24.13
+2023-01-29,Entertainment,Entertainment,93.84
+2023-01-29,Transportation,Public Transport or Fuel,21.97
+2023-01-30,Entertainment,Entertainment,111.44
+2023-01-30,Insurance,Insurance Payment,115.76
+2023-01-30,Vacation,Vacation Expense,1339.28
+2023-01-31,Internet,Internet Bill,60.00
+2023-02-01,Internet,Internet Bill,60.00
+2023-02-01,Utilities,Utility Bill,89.03
+2023-02-01,Vacation,Vacation Expense,920.10
+2023-02-02,Miscellaneous,Misc Expense,38.22
+2023-02-02,Vacation,Vacation Expense,1156.46
+2023-02-02,Vacation,Vacation Expense,306.58
+2023-02-02,Vacation,Vacation Expense,819.83
+2023-02-03,Dining,Dining Out,24.15
+2023-02-03,Dining,Dining Out,35.32
+2023-02-03,Entertainment,Entertainment,37.38
+2023-02-03,Entertainment,Entertainment,39.99
+2023-02-03,Office Travel,Office Travel,282.97
+2023-02-03,Rent,Monthly Rent,1500.00
+2023-02-03,Vacation,Vacation Expense,288.35
+2023-02-04,Miscellaneous,Misc Expense,59.79
+2023-02-04,Rent,Monthly Rent,1500.00
+2023-02-05,Dining,Dining Out,31.32
+2023-02-05,Miscellaneous,Misc Expense,94.20
+2023-02-05,Transportation,Public Transport or Fuel,15.77
+2023-02-06,Healthcare,Medical Expense,216.75
+2023-02-06,Insurance,Insurance Payment,100.43
+2023-02-07,Entertainment,Entertainment,62.10
+2023-02-07,Office Travel,Office Travel,398.83
+2023-02-07,Utilities,Utility Bill,91.63
+2023-02-08,Dining,Dining Out,18.52
+2023-02-08,Transportation,Public Transport or Fuel,29.79
+2023-02-08,Utilities,Utility Bill,133.18
+2023-02-09,Entertainment,Entertainment,66.30
+2023-02-09,Groceries,Groceries,116.36
+2023-02-09,Groceries,Groceries,141.32
+2023-02-09,Rent,Monthly Rent,1500.00
+2023-02-09,Transportation,Public Transport or Fuel,40.24
+2023-02-11,Transportation,Public Transport or Fuel,20.21
+2023-02-11,Utilities,Utility Bill,81.12
+2023-02-13,Miscellaneous,Misc Expense,40.54
+2023-02-13,Rent,Monthly Rent,1500.00
+2023-02-13,Transportation,Public Transport or Fuel,56.33
+2023-02-14,Groceries,Groceries,56.21
+2023-02-14,Insurance,Insurance Payment,193.40
+2023-02-14,Internet,Internet Bill,60.00
+2023-02-15,Entertainment,Entertainment,62.41
+2023-02-16,Healthcare,Medical Expense,92.75
+2023-02-17,Utilities,Utility Bill,182.16
+2023-02-18,Miscellaneous,Misc Expense,48.49
+2023-02-18,Office Travel,Office Travel,445.12
+2023-02-19,Dining,Dining Out,15.40
+2023-02-19,Dining,Dining Out,46.84
+2023-02-19,Entertainment,Entertainment,30.55
+2023-02-19,Vacation,Vacation Expense,814.47
+2023-02-20,Vacation,Vacation Expense,1494.93
+2023-02-21,Entertainment,Entertainment,102.78
+2023-02-22,Entertainment,Entertainment,46.43
+2023-02-22,Healthcare,Medical Expense,92.85
+2023-02-22,Office Travel,Office Travel,215.00
+2023-02-22,Office Travel,Office Travel,591.29
+2023-02-22,Utilities,Utility Bill,192.67
+2023-02-22,Vacation,Vacation Expense,934.80
+2023-02-23,Groceries,Groceries,90.93
+2023-02-23,Internet,Internet Bill,60.00
+2023-02-23,Internet,Internet Bill,60.00
+2023-02-23,Miscellaneous,Misc Expense,99.59
+2023-02-23,Office Travel,Office Travel,82.38
+2023-02-23,Transportation,Public Transport or Fuel,40.58
+2023-02-24,Rent,Monthly Rent,1500.00
+2023-02-25,Groceries,Groceries,102.82
+2023-02-26,Healthcare,Medical Expense,107.05
+2023-02-26,Healthcare,Medical Expense,211.50
+2023-02-26,Office Travel,Office Travel,340.92
+2023-02-27,Internet,Internet Bill,60.00
+2023-02-28,Dining,Dining Out,37.21
+2023-02-28,Entertainment,Entertainment,25.28
+2023-02-28,Entertainment,Entertainment,31.53
+2023-02-28,Internet,Internet Bill,60.00
+2023-02-28,Rent,Monthly Rent,1500.00
+2023-02-28,Utilities,Utility Bill,109.84
+2023-03-01,Groceries,Groceries,115.75
+2023-03-01,Transportation,Public Transport or Fuel,24.35
+2023-03-01,Utilities,Utility Bill,185.24
+2023-03-02,Dining,Dining Out,69.12
+2023-03-03,Transportation,Public Transport or Fuel,35.77
+2023-03-04,Healthcare,Medical Expense,76.67
+2023-03-04,Insurance,Insurance Payment,274.43
+2023-03-04,Insurance,Insurance Payment,279.90
+2023-03-04,Internet,Internet Bill,60.00
+2023-03-04,Vacation,Vacation Expense,764.93
+2023-03-05,Dining,Dining Out,38.12
+2023-03-05,Rent,Monthly Rent,1500.00
+2023-03-06,Miscellaneous,Misc Expense,87.53
+2023-03-07,Internet,Internet Bill,60.00
+2023-03-07,Office Travel,Office Travel,187.24
+2023-03-07,Transportation,Public Transport or Fuel,12.22
+2023-03-08,Dining,Dining Out,23.10
+2023-03-08,Groceries,Groceries,124.53
+2023-03-09,Groceries,Groceries,122.36
+2023-03-09,Groceries,Groceries,95.48
+2023-03-09,Internet,Internet Bill,60.00
+2023-03-09,Rent,Monthly Rent,1500.00
+2023-03-09,Utilities,Utility Bill,196.03
+2023-03-10,Entertainment,Entertainment,47.47
+2023-03-10,Insurance,Insurance Payment,209.59
+2023-03-10,Internet,Internet Bill,60.00
+2023-03-11,Healthcare,Medical Expense,138.36
+2023-03-11,Insurance,Insurance Payment,260.45
+2023-03-13,Dining,Dining Out,23.12
+2023-03-13,Miscellaneous,Misc Expense,36.61
+2023-03-14,Internet,Internet Bill,60.00
+2023-03-14,Rent,Monthly Rent,1500.00
+2023-03-14,Utilities,Utility Bill,193.86
+2023-03-14,Vacation,Vacation Expense,1174.32
+2023-03-14,Vacation,Vacation Expense,1479.51
+2023-03-14,Vacation,Vacation Expense,988.66
+2023-03-15,Office Travel,Office Travel,342.12
+2023-03-15,Transportation,Public Transport or Fuel,47.59
+2023-03-17,Entertainment,Entertainment,87.12
+2023-03-18,Dining,Dining Out,65.46
+2023-03-18,Vacation,Vacation Expense,612.49
+2023-03-20,Internet,Internet Bill,60.00
+2023-03-20,Utilities,Utility Bill,134.65
+2023-03-21,Entertainment,Entertainment,56.97
+2023-03-21,Vacation,Vacation Expense,635.74
+2023-03-22,Dining,Dining Out,36.92
+2023-03-22,Dining,Dining Out,43.11
+2023-03-22,Utilities,Utility Bill,166.37
+2023-03-23,Entertainment,Entertainment,63.78
+2023-03-23,Miscellaneous,Misc Expense,44.56
+2023-03-23,Rent,Monthly Rent,1500.00
+2023-03-24,Entertainment,Entertainment,59.81
+2023-03-24,Internet,Internet Bill,60.00
+2023-03-25,Entertainment,Entertainment,107.83
+2023-03-25,Entertainment,Entertainment,65.88
+2023-03-25,Healthcare,Medical Expense,172.53
+2023-03-26,Groceries,Groceries,134.58
+2023-03-26,Miscellaneous,Misc Expense,25.27
+2023-03-27,Dining,Dining Out,27.26
+2023-03-27,Dining,Dining Out,52.00
+2023-03-27,Entertainment,Entertainment,49.77
+2023-03-27,Healthcare,Medical Expense,119.93
+2023-03-27,Office Travel,Office Travel,202.52
+2023-03-28,Healthcare,Medical Expense,94.49
+2023-03-28,Miscellaneous,Misc Expense,82.97
+2023-03-29,Groceries,Groceries,100.02
+2023-03-29,Internet,Internet Bill,60.00
+2023-03-29,Office Travel,Office Travel,366.62
+2023-03-29,Rent,Monthly Rent,1500.00
+2023-03-29,Utilities,Utility Bill,173.41
+2023-03-30,Dining,Dining Out,62.55
+2023-03-30,Entertainment,Entertainment,61.82
+2023-03-30,Internet,Internet Bill,60.00
+2023-03-31,Insurance,Insurance Payment,235.46
+2023-03-31,Miscellaneous,Misc Expense,76.33
+2023-04-01,Dining,Dining Out,25.96
+2023-04-01,Internet,Internet Bill,60.00
+2023-04-01,Utilities,Utility Bill,115.31
+2023-04-01,Vacation,Vacation Expense,398.10
+2023-04-01,Vacation,Vacation Expense,694.50
+2023-04-03,Healthcare,Medical Expense,53.88
+2023-04-03,Office Travel,Office Travel,285.74
+2023-04-04,Insurance,Insurance Payment,292.16
+2023-04-04,Vacation,Vacation Expense,233.38
+2023-04-05,Dining,Dining Out,36.07
+2023-04-05,Healthcare,Medical Expense,183.89
+2023-04-05,Miscellaneous,Misc Expense,29.26
+2023-04-06,Healthcare,Medical Expense,92.42
+2023-04-06,Vacation,Vacation Expense,989.42
+2023-04-07,Utilities,Utility Bill,108.96
+2023-04-07,Utilities,Utility Bill,151.05
+2023-04-08,Miscellaneous,Misc Expense,52.85
+2023-04-08,Transportation,Public Transport or Fuel,31.99
+2023-04-08,Utilities,Utility Bill,113.47
+2023-04-09,Entertainment,Entertainment,16.07
+2023-04-09,Insurance,Insurance Payment,165.47
+2023-04-09,Insurance,Insurance Payment,197.13
+2023-04-09,Internet,Internet Bill,60.00
+2023-04-10,Insurance,Insurance Payment,270.69
+2023-04-10,Vacation,Vacation Expense,1080.55
+2023-04-11,Insurance,Insurance Payment,155.65
+2023-04-11,Internet,Internet Bill,60.00
+2023-04-11,Rent,Monthly Rent,1500.00
+2023-04-11,Rent,Monthly Rent,1500.00
+2023-04-12,Dining,Dining Out,50.76
+2023-04-12,Entertainment,Entertainment,59.98
+2023-04-12,Utilities,Utility Bill,140.72
+2023-04-13,Insurance,Insurance Payment,288.29
+2023-04-13,Internet,Internet Bill,60.00
+2023-04-14,Groceries,Groceries,115.39
+2023-04-14,Healthcare,Medical Expense,161.04
+2023-04-14,Insurance,Insurance Payment,166.18
+2023-04-15,Dining,Dining Out,56.28
+2023-04-15,Insurance,Insurance Payment,112.45
+2023-04-15,Insurance,Insurance Payment,265.15
+2023-04-15,Internet,Internet Bill,60.00
+2023-04-16,Internet,Internet Bill,60.00
+2023-04-18,Rent,Monthly Rent,1500.00
+2023-04-18,Rent,Monthly Rent,1500.00
+2023-04-19,Dining,Dining Out,40.58
+2023-04-19,Rent,Monthly Rent,1500.00
+2023-04-19,Transportation,Public Transport or Fuel,26.12
+2023-04-19,Vacation,Vacation Expense,1068.65
+2023-04-20,Utilities,Utility Bill,175.55
+2023-04-21,Healthcare,Medical Expense,191.46
+2023-04-21,Transportation,Public Transport or Fuel,40.80
+2023-04-22,Office Travel,Office Travel,488.98
+2023-04-22,Rent,Monthly Rent,1500.00
+2023-04-23,Healthcare,Medical Expense,139.63
+2023-04-23,Transportation,Public Transport or Fuel,21.72
+2023-04-23,Transportation,Public Transport or Fuel,52.51
+2023-04-24,Entertainment,Entertainment,98.99
+2023-04-24,Groceries,Groceries,129.27
+2023-04-24,Miscellaneous,Misc Expense,20.31
+2023-04-25,Office Travel,Office Travel,72.14
+2023-04-25,Vacation,Vacation Expense,1429.88
+2023-04-26,Transportation,Public Transport or Fuel,27.02
+2023-04-27,Groceries,Groceries,145.41
+2023-04-27,Insurance,Insurance Payment,150.45
+2023-04-27,Insurance,Insurance Payment,177.90
+2023-04-27,Insurance,Insurance Payment,207.64
+2023-04-27,Office Travel,Office Travel,183.57
+2023-04-28,Healthcare,Medical Expense,86.35
+2023-04-28,Insurance,Insurance Payment,264.47
+2023-04-29,Dining,Dining Out,41.85
+2023-04-29,Entertainment,Entertainment,23.46
+2023-04-29,Vacation,Vacation Expense,1111.54
+2023-04-30,Entertainment,Entertainment,96.34
+2023-04-30,Groceries,Groceries,147.49
+2023-04-30,Insurance,Insurance Payment,218.38
+2023-05-01,Office Travel,Office Travel,528.15
+2023-05-02,Rent,Monthly Rent,1500.00
+2023-05-03,Insurance,Insurance Payment,198.35
+2023-05-03,Rent,Monthly Rent,1500.00
+2023-05-04,Dining,Dining Out,31.29
+2023-05-04,Miscellaneous,Misc Expense,58.23
+2023-05-05,Groceries,Groceries,125.45
+2023-05-05,Office Travel,Office Travel,527.65
+2023-05-06,Internet,Internet Bill,60.00
+2023-05-06,Rent,Monthly Rent,1500.00
+2023-05-06,Rent,Monthly Rent,1500.00
+2023-05-06,Transportation,Public Transport or Fuel,39.75
+2023-05-06,Vacation,Vacation Expense,766.65
+2023-05-07,Internet,Internet Bill,60.00
+2023-05-07,Miscellaneous,Misc Expense,53.58
+2023-05-08,Groceries,Groceries,91.76
+2023-05-08,Office Travel,Office Travel,509.78
+2023-05-08,Transportation,Public Transport or Fuel,49.39
+2023-05-08,Utilities,Utility Bill,146.97
+2023-05-09,Dining,Dining Out,21.64
+2023-05-09,Entertainment,Entertainment,71.70
+2023-05-09,Healthcare,Medical Expense,72.82
+2023-05-09,Office Travel,Office Travel,94.65
+2023-05-10,Miscellaneous,Misc Expense,35.44
+2023-05-10,Miscellaneous,Misc Expense,46.23
+2023-05-10,Vacation,Vacation Expense,1007.34
+2023-05-10,Vacation,Vacation Expense,1487.04
+2023-05-11,Office Travel,Office Travel,107.53
+2023-05-11,Utilities,Utility Bill,196.42
+2023-05-12,Groceries,Groceries,59.29
+2023-05-13,Entertainment,Entertainment,101.62
+2023-05-13,Healthcare,Medical Expense,231.70
+2023-05-13,Miscellaneous,Misc Expense,31.90
+2023-05-14,Healthcare,Medical Expense,187.87
+2023-05-14,Internet,Internet Bill,60.00
+2023-05-14,Miscellaneous,Misc Expense,54.59
+2023-05-14,Vacation,Vacation Expense,974.96
+2023-05-15,Internet,Internet Bill,60.00
+2023-05-15,Utilities,Utility Bill,117.74
+2023-05-15,Utilities,Utility Bill,136.24
+2023-05-15,Utilities,Utility Bill,151.76
+2023-05-16,Internet,Internet Bill,60.00
+2023-05-16,Transportation,Public Transport or Fuel,11.63
+2023-05-16,Utilities,Utility Bill,184.73
+2023-05-17,Vacation,Vacation Expense,567.90
+2023-05-18,Dining,Dining Out,50.62
+2023-05-18,Entertainment,Entertainment,51.09
+2023-05-18,Rent,Monthly Rent,1500.00
+2023-05-18,Transportation,Public Transport or Fuel,44.87
+2023-05-19,Office Travel,Office Travel,427.55
+2023-05-19,Rent,Monthly Rent,1500.00
+2023-05-19,Transportation,Public Transport or Fuel,33.47
+2023-05-19,Vacation,Vacation Expense,1436.02
+2023-05-20,Dining,Dining Out,57.66
+2023-05-20,Miscellaneous,Misc Expense,18.93
+2023-05-20,Transportation,Public Transport or Fuel,11.29
+2023-05-21,Healthcare,Medical Expense,233.21
+2023-05-21,Vacation,Vacation Expense,1059.54
+2023-05-22,Insurance,Insurance Payment,262.71
+2023-05-22,Vacation,Vacation Expense,679.73
+2023-05-23,Entertainment,Entertainment,28.29
+2023-05-23,Healthcare,Medical Expense,104.18
+2023-05-24,Entertainment,Entertainment,49.73
+2023-05-24,Vacation,Vacation Expense,1469.59
+2023-05-25,Dining,Dining Out,49.40
+2023-05-25,Groceries,Groceries,81.17
+2023-05-25,Miscellaneous,Misc Expense,26.66
+2023-05-25,Office Travel,Office Travel,501.78
+2023-05-27,Healthcare,Medical Expense,243.81
+2023-05-27,Vacation,Vacation Expense,1397.55
+2023-05-28,Healthcare,Medical Expense,64.24
+2023-05-29,Insurance,Insurance Payment,246.91
+2023-05-30,Dining,Dining Out,38.38
+2023-05-30,Transportation,Public Transport or Fuel,51.33
+2023-05-31,Transportation,Public Transport or Fuel,14.26
+2023-06-01,Entertainment,Entertainment,57.84
+2023-06-01,Transportation,Public Transport or Fuel,46.30
+2023-06-01,Vacation,Vacation Expense,1324.59
+2023-06-02,Internet,Internet Bill,60.00
+2023-06-03,Dining,Dining Out,49.71
+2023-06-03,Vacation,Vacation Expense,1332.09
+2023-06-04,Healthcare,Medical Expense,83.27
+2023-06-04,Office Travel,Office Travel,437.14
+2023-06-04,Office Travel,Office Travel,507.68
+2023-06-05,Entertainment,Entertainment,116.36
+2023-06-07,Transportation,Public Transport or Fuel,37.46
+2023-06-08,Utilities,Utility Bill,135.37
+2023-06-08,Vacation,Vacation Expense,697.86
+2023-06-09,Insurance,Insurance Payment,167.98
+2023-06-09,Office Travel,Office Travel,55.17
+2023-06-10,Internet,Internet Bill,60.00
+2023-06-10,Miscellaneous,Misc Expense,36.57
+2023-06-10,Rent,Monthly Rent,1500.00
+2023-06-11,Entertainment,Entertainment,95.10
+2023-06-11,Utilities,Utility Bill,184.90
+2023-06-12,Insurance,Insurance Payment,129.11
+2023-06-13,Healthcare,Medical Expense,236.57
+2023-06-13,Healthcare,Medical Expense,71.33
+2023-06-13,Internet,Internet Bill,60.00
+2023-06-13,Vacation,Vacation Expense,666.65
+2023-06-14,Miscellaneous,Misc Expense,32.51
+2023-06-15,Entertainment,Entertainment,65.86
+2023-06-15,Insurance,Insurance Payment,110.84
+2023-06-15,Internet,Internet Bill,60.00
+2023-06-15,Office Travel,Office Travel,189.69
+2023-06-15,Rent,Monthly Rent,1500.00
+2023-06-15,Utilities,Utility Bill,143.11
+2023-06-16,Entertainment,Entertainment,18.77
+2023-06-16,Healthcare,Medical Expense,98.75
+2023-06-16,Miscellaneous,Misc Expense,36.27
+2023-06-16,Rent,Monthly Rent,1500.00
+2023-06-17,Insurance,Insurance Payment,213.19
+2023-06-17,Internet,Internet Bill,60.00
+2023-06-18,Groceries,Groceries,69.87
+2023-06-19,Transportation,Public Transport or Fuel,41.95
+2023-06-20,Healthcare,Medical Expense,175.08
+2023-06-20,Office Travel,Office Travel,182.46
+2023-06-21,Groceries,Groceries,29.73
+2023-06-21,Miscellaneous,Misc Expense,89.87
+2023-06-21,Vacation,Vacation Expense,1239.11
+2023-06-22,Entertainment,Entertainment,31.59
+2023-06-22,Healthcare,Medical Expense,223.05
+2023-06-22,Office Travel,Office Travel,589.45
+2023-06-23,Groceries,Groceries,60.40
+2023-06-23,Healthcare,Medical Expense,74.29
+2023-06-23,Insurance,Insurance Payment,229.97
+2023-06-23,Transportation,Public Transport or Fuel,30.77
+2023-06-24,Groceries,Groceries,73.30
+2023-06-24,Healthcare,Medical Expense,191.05
+2023-06-24,Utilities,Utility Bill,132.08
+2023-06-25,Miscellaneous,Misc Expense,97.62
+2023-06-25,Rent,Monthly Rent,1500.00
+2023-06-26,Entertainment,Entertainment,43.05
+2023-06-26,Groceries,Groceries,42.10
+2023-06-26,Healthcare,Medical Expense,230.24
+2023-06-26,Insurance,Insurance Payment,177.22
+2023-06-26,Rent,Monthly Rent,1500.00
+2023-06-26,Transportation,Public Transport or Fuel,26.93
+2023-06-27,Office Travel,Office Travel,267.69
+2023-06-27,Vacation,Vacation Expense,953.90
+2023-06-28,Dining,Dining Out,68.94
+2023-06-28,Insurance,Insurance Payment,108.73
+2023-06-28,Internet,Internet Bill,60.00
+2023-06-28,Office Travel,Office Travel,522.64
+2023-06-28,Transportation,Public Transport or Fuel,19.96
+2023-06-29,Groceries,Groceries,132.32
+2023-06-30,Transportation,Public Transport or Fuel,31.91
+2023-06-30,Transportation,Public Transport or Fuel,59.87
+2023-06-30,Vacation,Vacation Expense,386.05
+2023-06-30,Vacation,Vacation Expense,860.71
+2023-07-01,Groceries,Groceries,54.50
+2023-07-01,Rent,Monthly Rent,1500.00
+2023-07-01,Vacation,Vacation Expense,1349.51
+2023-07-02,Healthcare,Medical Expense,219.46
+2023-07-02,Miscellaneous,Misc Expense,80.49
+2023-07-03,Groceries,Groceries,118.04
+2023-07-03,Office Travel,Office Travel,503.12
+2023-07-04,Healthcare,Medical Expense,68.33
+2023-07-04,Miscellaneous,Misc Expense,15.72
+2023-07-04,Office Travel,Office Travel,178.60
+2023-07-04,Office Travel,Office Travel,252.03
+2023-07-04,Office Travel,Office Travel,526.55
+2023-07-05,Miscellaneous,Misc Expense,47.89
+2023-07-05,Office Travel,Office Travel,103.44
+2023-07-05,Rent,Monthly Rent,1500.00
+2023-07-05,Vacation,Vacation Expense,203.69
+2023-07-07,Healthcare,Medical Expense,138.94
+2023-07-07,Office Travel,Office Travel,401.72
+2023-07-07,Utilities,Utility Bill,179.58
+2023-07-08,Entertainment,Entertainment,29.24
+2023-07-08,Groceries,Groceries,122.31
+2023-07-08,Internet,Internet Bill,60.00
+2023-07-08,Office Travel,Office Travel,154.57
+2023-07-08,Office Travel,Office Travel,448.32
+2023-07-08,Vacation,Vacation Expense,1242.51
+2023-07-09,Groceries,Groceries,53.41
+2023-07-09,Office Travel,Office Travel,465.57
+2023-07-09,Rent,Monthly Rent,1500.00
+2023-07-10,Healthcare,Medical Expense,73.22
+2023-07-10,Miscellaneous,Misc Expense,88.34
+2023-07-12,Dining,Dining Out,47.39
+2023-07-12,Entertainment,Entertainment,67.69
+2023-07-12,Miscellaneous,Misc Expense,21.83
+2023-07-13,Entertainment,Entertainment,53.41
+2023-07-13,Transportation,Public Transport or Fuel,19.49
+2023-07-14,Groceries,Groceries,46.10
+2023-07-14,Office Travel,Office Travel,109.38
+2023-07-14,Utilities,Utility Bill,96.77
+2023-07-15,Internet,Internet Bill,60.00
+2023-07-15,Internet,Internet Bill,60.00
+2023-07-15,Office Travel,Office Travel,580.21
+2023-07-17,Dining,Dining Out,67.00
+2023-07-17,Vacation,Vacation Expense,341.77
+2023-07-18,Dining,Dining Out,47.25
+2023-07-18,Insurance,Insurance Payment,217.47
+2023-07-18,Internet,Internet Bill,60.00
+2023-07-18,Transportation,Public Transport or Fuel,49.93
+2023-07-18,Utilities,Utility Bill,134.57
+2023-07-19,Insurance,Insurance Payment,264.48
+2023-07-20,Insurance,Insurance Payment,287.81
+2023-07-21,Office Travel,Office Travel,71.68
+2023-07-21,Utilities,Utility Bill,180.04
+2023-07-22,Miscellaneous,Misc Expense,70.51
+2023-07-22,Miscellaneous,Misc Expense,72.68
+2023-07-23,Healthcare,Medical Expense,64.70
+2023-07-23,Internet,Internet Bill,60.00
+2023-07-24,Groceries,Groceries,135.10
+2023-07-25,Office Travel,Office Travel,424.47
+2023-07-26,Entertainment,Entertainment,107.03
+2023-07-26,Healthcare,Medical Expense,56.67
+2023-07-26,Insurance,Insurance Payment,102.78
+2023-07-26,Internet,Internet Bill,60.00
+2023-07-26,Utilities,Utility Bill,136.20
+2023-07-27,Dining,Dining Out,33.07
+2023-07-27,Healthcare,Medical Expense,243.48
+2023-07-27,Transportation,Public Transport or Fuel,48.79
+2023-07-28,Groceries,Groceries,148.38
+2023-07-28,Office Travel,Office Travel,336.80
+2023-07-29,Office Travel,Office Travel,247.27
+2023-07-30,Miscellaneous,Misc Expense,37.20
+2023-07-30,Transportation,Public Transport or Fuel,26.34
+2023-07-30,Vacation,Vacation Expense,1168.72
+2023-07-30,Vacation,Vacation Expense,487.78
+2023-07-31,Internet,Internet Bill,60.00
+2023-07-31,Rent,Monthly Rent,1500.00
+2023-08-02,Insurance,Insurance Payment,103.75
+2023-08-02,Office Travel,Office Travel,94.87
+2023-08-03,Insurance,Insurance Payment,268.90
+2023-08-03,Insurance,Insurance Payment,272.35
+2023-08-03,Internet,Internet Bill,60.00
+2023-08-03,Miscellaneous,Misc Expense,57.74
+2023-08-03,Utilities,Utility Bill,131.83
+2023-08-04,Insurance,Insurance Payment,104.17
+2023-08-04,Rent,Monthly Rent,1500.00
+2023-08-04,Transportation,Public Transport or Fuel,38.71
+2023-08-04,Vacation,Vacation Expense,859.64
+2023-08-05,Entertainment,Entertainment,21.30
+2023-08-05,Groceries,Groceries,118.08
+2023-08-05,Insurance,Insurance Payment,206.52
+2023-08-05,Office Travel,Office Travel,315.20
+2023-08-06,Groceries,Groceries,93.62
+2023-08-06,Internet,Internet Bill,60.00
+2023-08-06,Transportation,Public Transport or Fuel,45.13
+2023-08-07,Entertainment,Entertainment,26.95
+2023-08-07,Transportation,Public Transport or Fuel,57.27
+2023-08-08,Entertainment,Entertainment,73.67
+2023-08-08,Insurance,Insurance Payment,217.77
+2023-08-09,Rent,Monthly Rent,1500.00
+2023-08-09,Vacation,Vacation Expense,1023.00
+2023-08-10,Internet,Internet Bill,60.00
+2023-08-10,Internet,Internet Bill,60.00
+2023-08-10,Miscellaneous,Misc Expense,39.19
+2023-08-10,Vacation,Vacation Expense,606.18
+2023-08-11,Groceries,Groceries,124.17
+2023-08-11,Office Travel,Office Travel,190.19
+2023-08-12,Rent,Monthly Rent,1500.00
+2023-08-13,Insurance,Insurance Payment,190.73
+2023-08-13,Utilities,Utility Bill,97.02
+2023-08-13,Vacation,Vacation Expense,271.22
+2023-08-14,Healthcare,Medical Expense,227.62
+2023-08-14,Internet,Internet Bill,60.00
+2023-08-14,Miscellaneous,Misc Expense,14.63
+2023-08-14,Utilities,Utility Bill,113.99
+2023-08-15,Office Travel,Office Travel,283.21
+2023-08-16,Miscellaneous,Misc Expense,48.76
+2023-08-16,Utilities,Utility Bill,90.95
+2023-08-17,Utilities,Utility Bill,127.49
+2023-08-17,Vacation,Vacation Expense,759.26
+2023-08-18,Internet,Internet Bill,60.00
+2023-08-18,Miscellaneous,Misc Expense,39.27
+2023-08-18,Miscellaneous,Misc Expense,87.89
+2023-08-19,Insurance,Insurance Payment,214.68
+2023-08-20,Entertainment,Entertainment,45.96
+2023-08-20,Groceries,Groceries,28.54
+2023-08-20,Healthcare,Medical Expense,132.84
+2023-08-20,Healthcare,Medical Expense,216.41
+2023-08-21,Entertainment,Entertainment,17.76
+2023-08-21,Office Travel,Office Travel,532.74
+2023-08-21,Rent,Monthly Rent,1500.00
+2023-08-22,Internet,Internet Bill,60.00
+2023-08-22,Transportation,Public Transport or Fuel,12.27
+2023-08-22,Utilities,Utility Bill,129.30
+2023-08-22,Vacation,Vacation Expense,832.62
+2023-08-23,Office Travel,Office Travel,279.73
+2023-08-24,Miscellaneous,Misc Expense,43.54
+2023-08-24,Utilities,Utility Bill,117.51
+2023-08-25,Groceries,Groceries,119.34
+2023-08-25,Vacation,Vacation Expense,997.65
+2023-08-26,Insurance,Insurance Payment,269.03
+2023-08-26,Miscellaneous,Misc Expense,20.30
+2023-08-27,Healthcare,Medical Expense,129.75
+2023-08-28,Office Travel,Office Travel,567.62
+2023-08-28,Utilities,Utility Bill,122.01
+2023-08-29,Rent,Monthly Rent,1500.00
+2023-08-30,Internet,Internet Bill,60.00
+2023-08-30,Office Travel,Office Travel,506.20
+2023-08-30,Utilities,Utility Bill,183.45
+2023-08-31,Entertainment,Entertainment,73.98
+2023-08-31,Groceries,Groceries,109.29
+2023-08-31,Vacation,Vacation Expense,975.09
+2023-09-01,Internet,Internet Bill,60.00
+2023-09-02,Insurance,Insurance Payment,172.86
+2023-09-02,Office Travel,Office Travel,235.22
+2023-09-05,Groceries,Groceries,30.03
+2023-09-05,Rent,Monthly Rent,1500.00
+2023-09-05,Transportation,Public Transport or Fuel,12.61
+2023-09-05,Transportation,Public Transport or Fuel,19.86
+2023-09-06,Dining,Dining Out,59.07
+2023-09-06,Internet,Internet Bill,60.00
+2023-09-06,Rent,Monthly Rent,1500.00
+2023-09-07,Internet,Internet Bill,60.00
+2023-09-07,Internet,Internet Bill,60.00
+2023-09-08,Miscellaneous,Misc Expense,49.40
+2023-09-08,Transportation,Public Transport or Fuel,58.28
+2023-09-10,Entertainment,Entertainment,54.55
+2023-09-10,Groceries,Groceries,143.65
+2023-09-10,Miscellaneous,Misc Expense,40.56
+2023-09-11,Groceries,Groceries,29.93
+2023-09-11,Healthcare,Medical Expense,88.40
+2023-09-11,Utilities,Utility Bill,146.96
+2023-09-11,Vacation,Vacation Expense,818.32
+2023-09-12,Entertainment,Entertainment,22.79
+2023-09-12,Miscellaneous,Misc Expense,96.24
+2023-09-12,Transportation,Public Transport or Fuel,13.84
+2023-09-12,Transportation,Public Transport or Fuel,29.37
+2023-09-12,Transportation,Public Transport or Fuel,58.38
+2023-09-13,Groceries,Groceries,41.09
+2023-09-13,Transportation,Public Transport or Fuel,22.60
+2023-09-15,Entertainment,Entertainment,69.89
+2023-09-15,Healthcare,Medical Expense,57.52
+2023-09-15,Office Travel,Office Travel,558.28
+2023-09-15,Transportation,Public Transport or Fuel,48.91
+2023-09-15,Utilities,Utility Bill,136.27
+2023-09-15,Utilities,Utility Bill,177.32
+2023-09-15,Vacation,Vacation Expense,1047.39
+2023-09-17,Entertainment,Entertainment,58.96
+2023-09-17,Insurance,Insurance Payment,192.54
+2023-09-18,Miscellaneous,Misc Expense,89.53
+2023-09-18,Miscellaneous,Misc Expense,90.63
+2023-09-19,Office Travel,Office Travel,127.79
+2023-09-19,Office Travel,Office Travel,399.41
+2023-09-19,Rent,Monthly Rent,1500.00
+2023-09-20,Groceries,Groceries,118.83
+2023-09-20,Groceries,Groceries,63.34
+2023-09-20,Internet,Internet Bill,60.00
+2023-09-20,Miscellaneous,Misc Expense,94.42
+2023-09-20,Transportation,Public Transport or Fuel,47.62
+2023-09-21,Groceries,Groceries,50.71
+2023-09-21,Office Travel,Office Travel,234.06
+2023-09-21,Transportation,Public Transport or Fuel,49.82
+2023-09-21,Utilities,Utility Bill,101.26
+2023-09-21,Utilities,Utility Bill,143.67
+2023-09-22,Insurance,Insurance Payment,201.70
+2023-09-22,Vacation,Vacation Expense,1479.77
+2023-09-22,Vacation,Vacation Expense,268.08
+2023-09-23,Office Travel,Office Travel,265.58
+2023-09-23,Utilities,Utility Bill,140.55
+2023-09-24,Dining,Dining Out,68.33
+2023-09-25,Internet,Internet Bill,60.00
+2023-09-25,Office Travel,Office Travel,321.76
+2023-09-25,Vacation,Vacation Expense,1187.84
+2023-09-25,Vacation,Vacation Expense,370.36
+2023-09-26,Groceries,Groceries,113.75
+2023-09-26,Healthcare,Medical Expense,230.79
+2023-09-26,Healthcare,Medical Expense,96.80
+2023-09-26,Internet,Internet Bill,60.00
+2023-09-27,Groceries,Groceries,107.12
+2023-09-27,Internet,Internet Bill,60.00
+2023-09-27,Miscellaneous,Misc Expense,79.40
+2023-09-27,Miscellaneous,Misc Expense,99.74
+2023-09-28,Office Travel,Office Travel,223.88
+2023-09-28,Office Travel,Office Travel,580.43
+2023-09-28,Utilities,Utility Bill,140.92
+2023-09-28,Utilities,Utility Bill,153.80
+2023-09-30,Entertainment,Entertainment,24.81
+2023-10-01,Internet,Internet Bill,60.00
+2023-10-01,Office Travel,Office Travel,333.46
+2023-10-02,Office Travel,Office Travel,155.11
+2023-10-03,Miscellaneous,Misc Expense,48.20
+2023-10-03,Office Travel,Office Travel,400.63
+2023-10-04,Internet,Internet Bill,60.00
+2023-10-04,Rent,Monthly Rent,1500.00
+2023-10-04,Transportation,Public Transport or Fuel,21.88
+2023-10-04,Utilities,Utility Bill,119.35
+2023-10-05,Miscellaneous,Misc Expense,52.22
+2023-10-05,Vacation,Vacation Expense,1081.52
+2023-10-06,Entertainment,Entertainment,45.85
+2023-10-06,Healthcare,Medical Expense,188.41
+2023-10-07,Groceries,Groceries,91.34
+2023-10-07,Rent,Monthly Rent,1500.00
+2023-10-08,Healthcare,Medical Expense,226.93
+2023-10-08,Insurance,Insurance Payment,227.79
+2023-10-08,Miscellaneous,Misc Expense,22.92
+2023-10-08,Vacation,Vacation Expense,741.54
+2023-10-09,Miscellaneous,Misc Expense,11.46
+2023-10-10,Healthcare,Medical Expense,189.21
+2023-10-10,Transportation,Public Transport or Fuel,32.30
+2023-10-11,Groceries,Groceries,25.76
+2023-10-11,Transportation,Public Transport or Fuel,35.77
+2023-10-12,Entertainment,Entertainment,43.01
+2023-10-12,Entertainment,Entertainment,99.12
+2023-10-12,Rent,Monthly Rent,1500.00
+2023-10-12,Utilities,Utility Bill,194.41
+2023-10-13,Entertainment,Entertainment,54.27
+2023-10-13,Internet,Internet Bill,60.00
+2023-10-13,Utilities,Utility Bill,124.99
+2023-10-14,Insurance,Insurance Payment,248.66
+2023-10-14,Rent,Monthly Rent,1500.00
+2023-10-14,Rent,Monthly Rent,1500.00
+2023-10-14,Utilities,Utility Bill,193.57
+2023-10-14,Vacation,Vacation Expense,1493.63
+2023-10-15,Internet,Internet Bill,60.00
+2023-10-15,Rent,Monthly Rent,1500.00
+2023-10-16,Internet,Internet Bill,60.00
+2023-10-17,Entertainment,Entertainment,17.14
+2023-10-17,Utilities,Utility Bill,114.21
+2023-10-18,Entertainment,Entertainment,97.57
+2023-10-18,Internet,Internet Bill,60.00
+2023-10-18,Utilities,Utility Bill,165.37
+2023-10-20,Healthcare,Medical Expense,62.56
+2023-10-20,Insurance,Insurance Payment,154.91
+2023-10-20,Internet,Internet Bill,60.00
+2023-10-20,Rent,Monthly Rent,1500.00
+2023-10-21,Internet,Internet Bill,60.00
+2023-10-22,Groceries,Groceries,143.86
+2023-10-22,Office Travel,Office Travel,97.09
+2023-10-23,Healthcare,Medical Expense,176.35
+2023-10-23,Insurance,Insurance Payment,133.33
+2023-10-24,Internet,Internet Bill,60.00
+2023-10-24,Office Travel,Office Travel,395.54
+2023-10-24,Vacation,Vacation Expense,886.10
+2023-10-25,Groceries,Groceries,55.46
+2023-10-25,Healthcare,Medical Expense,57.40
+2023-10-25,Office Travel,Office Travel,305.54
+2023-10-25,Vacation,Vacation Expense,1155.74
+2023-10-26,Dining,Dining Out,63.72
+2023-10-26,Groceries,Groceries,28.20
+2023-10-26,Groceries,Groceries,37.89
+2023-10-26,Rent,Monthly Rent,1500.00
+2023-10-26,Utilities,Utility Bill,121.38
+2023-10-27,Entertainment,Entertainment,64.71
+2023-10-27,Healthcare,Medical Expense,169.35
+2023-10-27,Office Travel,Office Travel,146.30
+2023-10-28,Healthcare,Medical Expense,58.71
+2023-10-28,Office Travel,Office Travel,232.56
+2023-10-29,Entertainment,Entertainment,30.47
+2023-10-29,Insurance,Insurance Payment,167.81
+2023-10-29,Utilities,Utility Bill,82.28
+2023-10-30,Rent,Monthly Rent,1500.00
+2023-10-30,Utilities,Utility Bill,180.70
+2023-11-02,Transportation,Public Transport or Fuel,57.27
+2023-11-02,Vacation,Vacation Expense,399.47
+2023-11-03,Entertainment,Entertainment,71.93
+2023-11-03,Office Travel,Office Travel,582.16
+2023-11-03,Rent,Monthly Rent,1500.00
+2023-11-04,Rent,Monthly Rent,1500.00
+2023-11-05,Entertainment,Entertainment,82.18
+2023-11-05,Internet,Internet Bill,60.00
+2023-11-05,Utilities,Utility Bill,108.32
+2023-11-05,Utilities,Utility Bill,134.25
+2023-11-06,Groceries,Groceries,76.24
+2023-11-06,Healthcare,Medical Expense,133.12
+2023-11-07,Groceries,Groceries,50.78
+2023-11-07,Groceries,Groceries,84.77
+2023-11-07,Vacation,Vacation Expense,571.25
+2023-11-07,Vacation,Vacation Expense,741.56
+2023-11-08,Healthcare,Medical Expense,74.50
+2023-11-09,Dining,Dining Out,49.93
+2023-11-10,Groceries,Groceries,41.06
+2023-11-10,Healthcare,Medical Expense,54.64
+2023-11-10,Vacation,Vacation Expense,893.52
+2023-11-11,Office Travel,Office Travel,241.08
+2023-11-11,Office Travel,Office Travel,90.79
+2023-11-11,Vacation,Vacation Expense,253.55
+2023-11-12,Entertainment,Entertainment,75.09
+2023-11-12,Healthcare,Medical Expense,202.62
+2023-11-12,Insurance,Insurance Payment,289.89
+2023-11-13,Entertainment,Entertainment,27.36
+2023-11-13,Entertainment,Entertainment,63.01
+2023-11-13,Groceries,Groceries,118.89
+2023-11-13,Internet,Internet Bill,60.00
+2023-11-13,Miscellaneous,Misc Expense,74.70
+2023-11-15,Dining,Dining Out,22.75
+2023-11-15,Dining,Dining Out,33.71
+2023-11-15,Entertainment,Entertainment,28.63
+2023-11-15,Internet,Internet Bill,60.00
+2023-11-15,Office Travel,Office Travel,334.55
+2023-11-15,Rent,Monthly Rent,1500.00
+2023-11-15,Utilities,Utility Bill,162.63
+2023-11-16,Office Travel,Office Travel,350.07
+2023-11-16,Rent,Monthly Rent,1500.00
+2023-11-17,Dining,Dining Out,21.67
+2023-11-17,Entertainment,Entertainment,26.15
+2023-11-17,Healthcare,Medical Expense,149.75
+2023-11-17,Insurance,Insurance Payment,253.83
+2023-11-17,Office Travel,Office Travel,142.75
+2023-11-17,Transportation,Public Transport or Fuel,52.30
+2023-11-18,Transportation,Public Transport or Fuel,16.26
+2023-11-19,Groceries,Groceries,42.26
+2023-11-19,Groceries,Groceries,88.83
+2023-11-20,Miscellaneous,Misc Expense,91.18
+2023-11-21,Groceries,Groceries,123.18
+2023-11-21,Internet,Internet Bill,60.00
+2023-11-21,Rent,Monthly Rent,1500.00
+2023-11-21,Transportation,Public Transport or Fuel,22.48
+2023-11-21,Transportation,Public Transport or Fuel,34.15
+2023-11-21,Vacation,Vacation Expense,544.05
+2023-11-23,Miscellaneous,Misc Expense,93.46
+2023-11-24,Groceries,Groceries,84.88
+2023-11-25,Transportation,Public Transport or Fuel,45.20
+2023-11-26,Office Travel,Office Travel,273.35
+2023-11-27,Utilities,Utility Bill,142.17
+2023-11-27,Vacation,Vacation Expense,295.88
+2023-11-28,Groceries,Groceries,125.75
+2023-11-28,Internet,Internet Bill,60.00
+2023-11-28,Miscellaneous,Misc Expense,38.74
+2023-11-28,Rent,Monthly Rent,1500.00
+2023-11-28,Vacation,Vacation Expense,743.58
+2023-11-29,Miscellaneous,Misc Expense,50.06
+2023-11-29,Transportation,Public Transport or Fuel,52.57
+2023-11-29,Utilities,Utility Bill,87.89
+2023-11-30,Healthcare,Medical Expense,90.04
+2023-11-30,Miscellaneous,Misc Expense,30.29
+2023-11-30,Rent,Monthly Rent,1500.00
+2023-11-30,Vacation,Vacation Expense,1137.47
+2023-12-01,Healthcare,Medical Expense,112.74
+2023-12-02,Insurance,Insurance Payment,110.23
+2023-12-02,Rent,Monthly Rent,1500.00
+2023-12-02,Rent,Monthly Rent,1500.00
+2023-12-04,Insurance,Insurance Payment,126.79
+2023-12-04,Insurance,Insurance Payment,166.06
+2023-12-04,Vacation,Vacation Expense,1079.61
+2023-12-04,Vacation,Vacation Expense,1163.16
+2023-12-05,Entertainment,Entertainment,36.77
+2023-12-05,Insurance,Insurance Payment,238.10
+2023-12-05,Miscellaneous,Misc Expense,39.97
+2023-12-05,Rent,Monthly Rent,1500.00
+2023-12-05,Utilities,Utility Bill,127.27
+2023-12-08,Dining,Dining Out,17.79
+2023-12-08,Dining,Dining Out,47.08
+2023-12-08,Rent,Monthly Rent,1500.00
+2023-12-09,Entertainment,Entertainment,46.34
+2023-12-09,Miscellaneous,Misc Expense,42.92
+2023-12-10,Entertainment,Entertainment,15.86
+2023-12-10,Healthcare,Medical Expense,169.50
+2023-12-10,Miscellaneous,Misc Expense,17.11
+2023-12-10,Utilities,Utility Bill,126.36
+2023-12-10,Vacation,Vacation Expense,637.29
+2023-12-11,Office Travel,Office Travel,313.10
+2023-12-12,Internet,Internet Bill,60.00
+2023-12-13,Insurance,Insurance Payment,263.68
+2023-12-13,Internet,Internet Bill,60.00
+2023-12-13,Internet,Internet Bill,60.00
+2023-12-13,Vacation,Vacation Expense,1161.12
+2023-12-14,Entertainment,Entertainment,96.37
+2023-12-15,Entertainment,Entertainment,44.37
+2023-12-16,Dining,Dining Out,67.65
+2023-12-16,Entertainment,Entertainment,62.98
+2023-12-16,Internet,Internet Bill,60.00
+2023-12-16,Internet,Internet Bill,60.00
+2023-12-16,Utilities,Utility Bill,161.74
+2023-12-17,Insurance,Insurance Payment,200.02
+2023-12-18,Dining,Dining Out,34.94
+2023-12-18,Internet,Internet Bill,60.00
+2023-12-18,Internet,Internet Bill,60.00
+2023-12-18,Internet,Internet Bill,60.00
+2023-12-18,Miscellaneous,Misc Expense,34.45
+2023-12-18,Miscellaneous,Misc Expense,34.61
+2023-12-19,Healthcare,Medical Expense,84.10
+2023-12-19,Transportation,Public Transport or Fuel,49.84
+2023-12-20,Entertainment,Entertainment,29.68
+2023-12-20,Healthcare,Medical Expense,103.11
+2023-12-20,Office Travel,Office Travel,386.07
+2023-12-21,Miscellaneous,Misc Expense,65.78
+2023-12-21,Vacation,Vacation Expense,950.92
+2023-12-22,Dining,Dining Out,16.74
+2023-12-22,Miscellaneous,Misc Expense,71.27
+2023-12-22,Utilities,Utility Bill,197.59
+2023-12-23,Dining,Dining Out,52.96
+2023-12-23,Vacation,Vacation Expense,589.73
+2023-12-24,Healthcare,Medical Expense,92.80
+2023-12-24,Miscellaneous,Misc Expense,15.61
+2023-12-24,Miscellaneous,Misc Expense,66.63
+2023-12-24,Rent,Monthly Rent,1500.00
+2023-12-25,Groceries,Groceries,45.88
+2023-12-26,Internet,Internet Bill,60.00
+2023-12-26,Miscellaneous,Misc Expense,33.79
+2023-12-27,Entertainment,Entertainment,43.47
+2023-12-27,Entertainment,Entertainment,70.90
+2023-12-27,Insurance,Insurance Payment,129.56
+2023-12-27,Office Travel,Office Travel,419.89
+2023-12-27,Rent,Monthly Rent,1500.00
+2023-12-29,Entertainment,Entertainment,38.70
+2023-12-30,Healthcare,Medical Expense,181.19
+2023-12-30,Healthcare,Medical Expense,224.56
+2023-12-30,Vacation,Vacation Expense,614.09
+2023-12-31,Groceries,Groceries,57.76
+2023-12-31,Groceries,Groceries,79.76
+2023-12-31,Miscellaneous,Misc Expense,19.89
+2023-12-31,Transportation,Public Transport or Fuel,48.56
