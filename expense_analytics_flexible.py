@@ -51,19 +51,25 @@ def aggregate_spending(
     return summary
 
 
-def display(summary: pd.DataFrame, dimensions: list[str]) -> None:
-    """Pretty-print the summary and plot a simple chart."""
+def display(summary: pd.DataFrame, dimensions: list[str], chart_type: str) -> None:
+    """Pretty-print the summary and plot a chart."""
     print("\nSpending Summary:\n")
     print(summary.to_string(index=False))
 
     if len(dimensions) == 1:
-        summary.plot.bar(x=dimensions[0], y="Amount", legend=False)
+        if chart_type == "pie":
+            summary.set_index(dimensions[0])["Amount"].plot.pie(autopct="%.1f%%")
+        else:  # bar
+            summary.plot.bar(x=dimensions[0], y="Amount", legend=False)
         plt.ylabel("Total Spend ($)")
         plt.tight_layout()
         plt.show()
     elif len(dimensions) == 2:
         pivot = summary.pivot(index=dimensions[0], columns=dimensions[1], values="Amount")
-        pivot.plot(kind="bar", stacked=True)
+        if chart_type == "stacked":
+            pivot.plot(kind="bar", stacked=True)
+        else:  # bar
+            pivot.plot(kind="bar")
         plt.ylabel("Total Spend ($)")
         plt.tight_layout()
         plt.show()
@@ -101,12 +107,18 @@ def main() -> None:
         default=None,
         help="Only display groups with totals above this amount",
     )
+    parser.add_argument(
+        "--chart-type",
+        default="bar",
+        choices=["bar", "pie", "stacked"],
+        help="Type of chart to display",
+    )
     args = parser.parse_args()
 
     df = load_data(args.csv)
     df = filter_transactions(df, args.min_transaction, args.max_transaction)
     summary = aggregate_spending(df, args.dimensions, args.min_total)
-    display(summary, args.dimensions)
+    display(summary, args.dimensions, args.chart_type)
 
 
 if __name__ == "__main__":

@@ -39,7 +39,7 @@ python expense_analytics.py --dimensions category
 python expense_analytics.py --dimensions month category
 ```
 
-The script prints a table with the aggregated totals and displays a simple bar chart for a quick visual overview.
+The script prints a table with the aggregated totals and displays a chart for a quick visual overview. Use `--chart-type` to choose between `bar`, `stacked`, or `pie` styles.
 
 ## Flexible Expense Analytics
 
@@ -54,6 +54,8 @@ python expense_analytics_flexible.py --dimensions quarter category --min-transac
 # monthly totals per merchant only showing groups above $500
 python expense_analytics_flexible.py --dimensions month merchant --min-total 500
 ```
+
+Both analytics scripts accept `--chart-type` to control the visualization style.
 
 Available dimensions: `day`, `month`, `quarter`, `year`, `category`, `merchant`.
 Use `--min-transaction` and `--max-transaction` to filter transactions by amount and `--min-total` to show only groups exceeding a threshold.
