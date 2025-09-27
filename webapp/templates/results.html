@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projected Premiums</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+<header>
+    <h1>Projected Premiums</h1>
+    <p>Your data has been dispatched to autonomous browsing agents that inspect insurer site snapshots.</p>
+</header>
+<main>
+    <section class="card">
+        <h2>Rate Comparison</h2>
+        <div class="table-wrapper">
+            <table>
+                <thead>
+                <tr>
+                    <th>Company</th>
+                    <th>Base Premium</th>
+                    <th>Total Adjustment</th>
+                    <th>Estimated Premium</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for quote in quotes %}
+                <tr>
+                    <td>{{ quote.company }}</td>
+                    <td>${{ '%.2f'|format(quote.base_premium) }}</td>
+                    <td>${{ '%.2f'|format(quote.total_adjustment) }}</td>
+                    <td class="highlight">${{ '%.2f'|format(quote.estimated_premium) }}</td>
+                </tr>
+                <tr class="adjustments">
+                    <td colspan="4">
+                        <strong>Breakdown:</strong>
+                        <ul>
+                            {% for label, value in quote.adjustments.items() %}
+                            <li>{{ label.replace('_', ' ').title() }}: {{ '+' if value >= 0 else '' }}${{ '%.2f'|format(value) }}</li>
+                            {% endfor %}
+                        </ul>
+                    </td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <a href="{{ url_for('index') }}" class="link-button">Back to form</a>
+    </section>
+    <section class="card">
+        <h2>What The Agents Do</h2>
+        <p>
+            Each agent emulates a human rater: it opens a saved quote page for its insurer, extracts coverage
+            baselines, and adjusts them using underwriting signals such as age, credit, mileage, and loyalty.
+            No APIs are called—only controlled HTML snapshots are parsed to mimic on-site data collection.
+        </p>
+    </section>
+</main>
+<footer>
+    <p>Disclaimer: Rates are synthetic and for demonstration only.</p>
+</footer>
+</body>
+</html>

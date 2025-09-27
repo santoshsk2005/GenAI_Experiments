@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Insurance Rater</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+<header>
+    <h1>AI-Powered Auto Insurance Rater</h1>
+    <p>Compare projected premiums from Nationwide, GEICO, State Farm, and Allstate without direct API integrations.</p>
+</header>
+<main>
+    <section class="card">
+        <h2>Driver &amp; Vehicle Information</h2>
+        <form method="post" class="form-grid">
+            <div class="field">
+                <label for="driver_age">Driver Age</label>
+                <input type="number" id="driver_age" name="driver_age" min="16" max="100" required>
+            </div>
+            <div class="field">
+                <label for="zip_code">ZIP Code</label>
+                <input type="text" id="zip_code" name="zip_code" required>
+            </div>
+            <div class="field">
+                <label for="vehicle_make">Vehicle Make</label>
+                <input type="text" id="vehicle_make" name="vehicle_make" required>
+            </div>
+            <div class="field">
+                <label for="vehicle_model">Vehicle Model</label>
+                <input type="text" id="vehicle_model" name="vehicle_model" required>
+            </div>
+            <div class="field">
+                <label for="vehicle_year">Vehicle Year</label>
+                <input type="number" id="vehicle_year" name="vehicle_year" min="1990" max="{{ current_year|default(2024) }}" required>
+            </div>
+            <div class="field">
+                <label for="credit_score">Credit Score</label>
+                <input type="number" id="credit_score" name="credit_score" min="300" max="850" required>
+            </div>
+            <div class="field">
+                <label for="accidents">Accidents (past 5 years)</label>
+                <input type="number" id="accidents" name="accidents" min="0" max="10" value="0">
+            </div>
+            <div class="field">
+                <label for="annual_mileage">Annual Mileage</label>
+                <input type="number" id="annual_mileage" name="annual_mileage" min="1000" max="50000" value="12000">
+            </div>
+            <div class="field">
+                <label for="loyalty_years">Years with Current Insurer</label>
+                <input type="number" id="loyalty_years" name="loyalty_years" min="0" max="50" value="0">
+            </div>
+            <div class="field">
+                <label for="coverage_level">Coverage Level</label>
+                <select id="coverage_level" name="coverage_level">
+                    {% for key, label in coverage_levels.items() %}
+                    <option value="{{ key }}">{{ label }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="field">
+                <label for="bundled_home_auto">Bundled Home &amp; Auto?</label>
+                <select id="bundled_home_auto" name="bundled_home_auto">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </div>
+            <div class="field">
+                <label for="defensive_driving">Completed Defensive Driving?</label>
+                <select id="defensive_driving" name="defensive_driving">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </div>
+            <div class="field">
+                <label for="telematics_opt_in">Opt-in to Telematics?</label>
+                <select id="telematics_opt_in" name="telematics_opt_in">
+                    <option value="no">No</option>
+                    <option value="yes">Yes</option>
+                </select>
+            </div>
+            <div class="actions">
+                <button type="submit">Project Premiums</button>
+            </div>
+        </form>
+    </section>
+</main>
+<footer>
+    <p>Simulated browsing agents parse insurer site snapshots to deliver rate comparisons.</p>
+</footer>
+</body>
+</html>

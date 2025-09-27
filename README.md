@@ -59,3 +59,17 @@ Both analytics scripts accept `--chart-type` to control the visualization style.
 
 Available dimensions: `day`, `month`, `quarter`, `year`, `category`, `merchant`.
 Use `--min-transaction` and `--max-transaction` to filter transactions by amount and `--min-total` to show only groups exceeding a threshold.
+
+## AI Insurance Rater Webapp
+
+The `webapp` folder contains a Flask application that emulates a third-party auto insurance rater. Instead of calling insurer APIs,
+AI-inspired agents parse stored HTML snapshots from Nationwide, GEICO, State Farm, and Allstate to estimate premiums.
+
+### Run locally
+
+```bash
+pip install -r requirements.txt
+python webapp/app.py
+```
+
+Then open [http://localhost:5000](http://localhost:5000) to enter driver and vehicle information and compare projected premiums.
