@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Office Chore Planner</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Office Chore Planner</h1>
+      <p>Schedule, assign, and track recurring office chores.</p>
+    </header>
+
+    <main>
+      <aside class="panel">
+        <section>
+          <h2>Team Members</h2>
+          <form id="team-form" class="stack">
+            <label for="member-name">Name</label>
+            <input id="member-name" type="text" required placeholder="e.g. Alex" />
+            <button type="submit">Add Team Member</button>
+          </form>
+          <ul id="team-list"></ul>
+        </section>
+
+        <section>
+          <h2>Add Chore</h2>
+          <form id="chore-form" class="stack">
+            <label for="chore-title">Chore</label>
+            <input id="chore-title" type="text" required placeholder="Kitchen cleanup" />
+
+            <label for="chore-assignee">Assignee</label>
+            <select id="chore-assignee" required></select>
+
+            <label for="chore-date">Date</label>
+            <input id="chore-date" type="date" required />
+
+            <label for="chore-start">Start time</label>
+            <input id="chore-start" type="time" required />
+
+            <label for="chore-end">End time</label>
+            <input id="chore-end" type="time" required />
+
+            <label for="chore-repeat">Repeat</label>
+            <select id="chore-repeat">
+              <option value="none">Does not repeat</option>
+              <option value="daily">Daily</option>
+              <option value="weekly">Weekly</option>
+              <option value="monthly">Monthly</option>
+              <option value="weekdays">Weekdays</option>
+            </select>
+
+            <button type="submit">Add Chore</button>
+          </form>
+        </section>
+
+        <section>
+          <h2>Scheduled Chores</h2>
+          <ul id="chore-list"></ul>
+        </section>
+      </aside>
+
+      <section class="calendar-shell">
+        <div id="calendar"></div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/rrule@2.8.1/dist/es5/rrule.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/rrule@6.1.15/index.global.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

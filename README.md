@@ -59,3 +59,24 @@ Both analytics scripts accept `--chart-type` to control the visualization style.
 
 Available dimensions: `day`, `month`, `quarter`, `year`, `category`, `merchant`.
 Use `--min-transaction` and `--max-transaction` to filter transactions by amount and `--min-total` to show only groups exceeding a threshold.
+
+## Office Chore Planner (Web App)
+
+A lightweight front-end app is available in `office_chore_app/` for managing office chores with a calendar view.
+
+Features:
+- Outlook-style calendar views (month/week/day/list)
+- Add/remove chores
+- Recurring schedules (daily, weekly, monthly, weekdays)
+- Assign chores to team members
+- Add/remove team members
+
+Run locally:
+
+```bash
+cd office_chore_app
+python -m http.server 8000
+# then open http://localhost:8000
+```
+
+For requirement discovery prompts, see `office_chore_app/REQUIREMENTS_QUESTIONS.md`.
