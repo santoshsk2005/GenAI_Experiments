@@ -80,3 +80,14 @@ python -m http.server 8000
 ```
 
 For requirement discovery prompts, see `office_chore_app/REQUIREMENTS_QUESTIONS.md`.
+
+## RateGuard Phase 1 Prototype
+
+A new backend prototype for the RateGuard insurance monitoring platform is included in `rateguard/`.
+
+Run:
+
+```bash
+python -m unittest discover -s rateguard/tests -v
+python -m rateguard.app.main
+```
